@@ -6,9 +6,9 @@ I'm a passionate IT Specialist with 12+ of experience in system administration a
 ## Objective
 My GitHub is a showcase of hands-on projects in Cyber Security and Information Science. Reflecting my passion for continuous learning and technical growth. Through these projects, I aim to deepen my expertise in building secure, efficient, and innovative solutions while solving real-world challenges. My collaborative mindset, leadership experience, and commitment to leveraging cutting-edge skills make me a strong candidate for roles where I can drive impactful IT solutions and contribute to organizational success.
 
-## Skills
+## Labs and Links
 
-| Skill                                         | Associated Project         |
+| Labs                                         | Associated Project Links        |
 |-----------------------------------------------|----------------------------|
 | Infrastructure Secruty Lab          | <a href="https://github.com/Zaq-Stone/Cyber_Security-Lab/blob/main/README.md">Cyber_Security Lab - In Progress</a>|
 
