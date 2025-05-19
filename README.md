@@ -10,7 +10,7 @@ My GitHub is a showcase of hands-on projects in Cyber Security and Information S
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Infrastructure Secruty Lab          | <a href="https://google.com">Detection Lab</a>|
+| Infrastructure Secruty Lab          | <a href="https://github.com/Zaq-Stone/Cyber_Security-Lab/blob/main/README.md">Cyber_Security Lab - In Progress</a>|
 
 ## Tools
 [Provide tools]
@@ -38,4 +38,4 @@ My GitHub is a showcase of hands-on projects in Cyber Security and Information S
 </div>
 
 ## Projects
-- Infrastructure Security Lab - In Progress
+- <a href="https://github.com/Zaq-Stone/Cyber_Security-Lab/blob/main/README.md">Cyber_Security Lab - In Progress</a>
