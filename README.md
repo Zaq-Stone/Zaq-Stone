@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hello, I'm Zachary Stone
+<a href="https://linkedin.com/in/zaq-stone"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Zaq-Stone/Zaq-Stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate IT Specialist with 12+ of experience in system administration and technical support, dedicated to boosting operational efficiency and system reliability. I thrive in solving complex challenges and leading collaborative teams to ensure seamless operations. I'm committed to continuous learning and leveraging my technical expertise to drive organizational success.
 
-Here are some ideas to get you started:
+## Objective
+My GitHub is a showcase of hands-on projects in Cyber Security and Information Science. Reflecting my passion for continuous learning and technical growth. Through these projects, I aim to deepen my expertise in building secure, efficient, and innovative solutions while solving real-world challenges. My collaborative mindset, leadership experience, and commitment to leveraging cutting-edge skills make me a strong candidate for roles where I can drive impactful IT solutions and contribute to organizational success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Infrastructure Secruty Lab          | <a href="https://google.com">Detection Lab</a>|
+
+## Tools
+[Provide tools]
+
+### Network
+<div>
+
+</div>
+
+### Endpoint
+<div>
+    
+</div>
+
+### SIEM
+<div>
+   
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-A%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-4B5EAA?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
+
+## Projects
+- Infrastructure Security Lab - In Progress
