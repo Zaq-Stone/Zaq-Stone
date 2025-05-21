@@ -35,7 +35,7 @@ My GitHub is a showcase of hands-on projects in Cyber Security and Information S
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-A%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4B5EAA?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-4B5EAA?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
