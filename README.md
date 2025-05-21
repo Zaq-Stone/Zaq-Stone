@@ -19,7 +19,8 @@ My GitHub is a showcase of hands-on projects in Cyber Security and Information S
 
 ### Network
 <div>
-
+<img src="https://img.shields.io/badge/-DNS-808080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-DHCP-808080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Endpoint
