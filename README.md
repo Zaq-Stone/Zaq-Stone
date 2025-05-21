@@ -13,7 +13,9 @@ My GitHub is a showcase of hands-on projects in Cyber Security and Information S
 | Infrastructure Secruty Lab          | <a href="https://github.com/Zaq-Stone/Cyber_Security-Lab/blob/main/README.md">Cyber_Security Lab - In Progress</a>|
 
 ## Tools
-[Provide tools]
+<div>
+<img src="https://img.shields.io/badge/-VirtualBox-FFA500?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
 
 ### Network
 <div>
