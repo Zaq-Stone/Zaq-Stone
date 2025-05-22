@@ -15,6 +15,8 @@ My GitHub is a showcase of hands-on projects in Cyber Security and Information S
 ## Tools
 <div>
 <img src="https://img.shields.io/badge/-VirtualBox-FFA500?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+
 </div>
 
 ### Network
